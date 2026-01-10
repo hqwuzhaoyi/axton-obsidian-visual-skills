@@ -13,6 +13,7 @@ Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagra
 >
 > - This is a public prototype that works for my demos, but does not yet cover all input scales and edge cases.
 > - Output quality varies based on model version and input structure; results may fluctuate.
+> - My primary focus is demonstrating how tools and systems work together, not maintaining this codebase.
 > - If you encounter issues, please submit a reproducible case (input + output file + steps to reproduce).
 
 ## What Are Skills?
@@ -181,4 +182,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-© AXTONLIU™ & AI Elite Academy™ All Rights Reserved.
+© AXTONLIU™ & AI 精英学院™ 版权所有
