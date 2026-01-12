@@ -7,6 +7,26 @@
 
 让 Claude Code 在 Obsidian 里生成 Canvas / Excalidraw / Mermaid 的可视化三件套。
 
+## 效果展示
+
+<table>
+<tr>
+<td align="center"><strong>Excalidraw</strong></td>
+<td align="center"><strong>Mermaid</strong></td>
+<td align="center"><strong>Canvas</strong></td>
+</tr>
+<tr>
+<td><img src="assets/excalidraw-demo.png" width="280" alt="Excalidraw Demo"></td>
+<td><img src="assets/mermaid-demo.png" width="280" alt="Mermaid Demo"></td>
+<td><img src="assets/canvas-demo.png" width="280" alt="Canvas Demo"></td>
+</tr>
+<tr>
+<td align="center"><em>手绘风格</em></td>
+<td align="center"><em>层级流程图</em></td>
+<td align="center"><em>彩色卡片布局</em></td>
+</tr>
+</table>
+
 ## 状态
 
 > **状态：实验性（Experimental）**

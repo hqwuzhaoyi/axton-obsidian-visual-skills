@@ -7,6 +7,26 @@
 
 Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
 
+## Demo
+
+<table>
+<tr>
+<td align="center"><strong>Excalidraw</strong></td>
+<td align="center"><strong>Mermaid</strong></td>
+<td align="center"><strong>Canvas</strong></td>
+</tr>
+<tr>
+<td><img src="assets/excalidraw-demo.png" width="280" alt="Excalidraw Demo"></td>
+<td><img src="assets/mermaid-demo.png" width="280" alt="Mermaid Demo"></td>
+<td><img src="assets/canvas-demo.png" width="280" alt="Canvas Demo"></td>
+</tr>
+<tr>
+<td align="center"><em>Hand-drawn style</em></td>
+<td align="center"><em>Hierarchical flowchart</em></td>
+<td align="center"><em>Colorful card layout</em></td>
+</tr>
+</table>
+
 ## Status
 
 > **Status: Experimental**
